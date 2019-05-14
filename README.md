@@ -12,7 +12,9 @@ Locations where players can store items, with configurable price per item stored
 
 ## Permissions:
 `omni.storage_override`, allows entry in any storage, regardless of permission requirement
+
 `premium.storage_features`, allows for item movement to nearby vehicles (may not work with vanilla vRP)
+
 `transfer.self_storage`, allows transfer from your to another players storage
 
 # Note
