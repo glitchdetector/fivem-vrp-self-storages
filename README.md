@@ -1,10 +1,11 @@
 # vRP Self Storages
 Locations where players can store items, with configurable price per item stored.
 
-# Does not include permission and item definitions, but these are the following used by the script:
 
 # Dependencies
  - https://github.com/glitchdetector/fivem-blip-info
+
+#### Does not include permission and item definitions, but these are the following used by the script:
 
 ## Items:
 `storage_card`, allows free storage of items (consumable)
